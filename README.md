@@ -1,4 +1,4 @@
-# Cloud-Aware
+# Hybrid-Cloud-Allwise
 I am developing an open source cloud monitoring and alerting service that addresses cybersecurity, DevOps, and FinOps concerns
 
 Written in Go Lang, Cloud Aware integrates with Prometheus, is vender neutral, and has an open API
